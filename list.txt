@@ -1,5 +1,5 @@
-! Title: MyList
-! Version: 27June2023v1
+! Title: Mikael list
+! Version: 27June2023v2
 ! Expires: 1 day
 
 ||static.finncdn.no/*/FINNExternalDistribution.js
