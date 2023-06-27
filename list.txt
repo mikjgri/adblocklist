@@ -1,0 +1,5 @@
+! Title: MyList
+! Version: 27June2023v1
+! Expires: 1 day
+
+||static.finncdn.no/*/FINNExternalDistribution.js
