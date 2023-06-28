@@ -3,3 +3,4 @@
 ! Expires: 1 day
 
 ||static.finncdn.no/*/FINNExternalDistribution.js
+vg.no ## .finn-blink-loaded
