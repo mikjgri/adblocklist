@@ -1,7 +1,8 @@
 ! Title: Mikael list
-! Version: 28June2023v2
+! Version: 28June2023v3
 ! Expires: 1 day
 
 ||static.finncdn.no/*/FINNExternalDistribution.js
 vg.no ## .finn-blink-loaded
-f-b.no ## [href*="adplogger"], [src*="adplogger"]
+f-b.no##[href*="adplogger"]
+f-b.no##[src*="adplogger"]
